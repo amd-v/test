@@ -1,12 +1,11 @@
-## title1
+## Current Version: 0.01
+
+## Introduction
 123</br>
 456</br>
 789</br>
 
-## title2
+## About XXX
 qwer</br>
 asdf</br>
 zxcv</br>
-
-## Latest Version
-0.01
